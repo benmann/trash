@@ -1,9 +1,11 @@
-# 🗑 TRASH
-> A task-runner in bash
+<img align="center" width="350" src="http://trash.sh/img/trash-logo.png">
+> [http://trash.sh](http://trash.sh)
 
-[http://trash.sh](http://trash.sh)
 
 Trash is a task-runner written in bash. Much like Grunt.js it can be used to automate large parts of your workflow and is easily extensible with plugins, that are quite easy to write.
+
+### REQUIREMENTS
+- Bash 4.0+
 
 ### INSTALL
 
