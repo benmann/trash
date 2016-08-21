@@ -1,8 +1,9 @@
-# TRASH
+# 🗑 TRASH
+> A task-runner in bash
 
 [http://trash.sh](http://trash.sh)
 
-Tra.sh is a task-runner written in bash. Much like Grunt.js it can be used to automate large parts of your workflow and is easily extensible with plugins, that are quite easy to write.
+Trash is a task-runner written in bash. Much like Grunt.js it can be used to automate large parts of your workflow and is easily extensible with plugins, that are quite easy to write.
 
 ### INSTALL
 
@@ -10,9 +11,7 @@ The easiest way to install is just cloning the repository.
 `$ git clone git://github.com/BenMann/trash`
     
 From there you probably want to have either an alias or a link to you ~/bin folder, so you can actually use it globally. 
-If you have npm installed you may also do a global install from there:  
-`$ npm install trash-runner -g`
-    
+
     
 ### USAGE  
 Trash uses so called taskfiles to declare and run tasks from. Taskfiles can also be used to load plugins, which can then be incorporated in and called like regular tasks. The easiest way to generate a taskfile is by running
