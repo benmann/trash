@@ -42,6 +42,8 @@ Running tests…
 All tests passed ✔︎
 ```
 
+You can list all available tasks by running `$ trash list`
+
 ### PLUGINS
 
 When first run, trash will atempt to create the directory 
