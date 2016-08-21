@@ -17,4 +17,7 @@ function watch {
 }
 ```
 
+You can require this plugin in a taskfile with
+`plug wat.sh`
+
 Requires bash 4.0+ for the array
